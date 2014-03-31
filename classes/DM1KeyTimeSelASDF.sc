@@ -1,4 +1,4 @@
-KeyTimeSelASDF {
+DM1KeyTimeSelASDF {
 	var <>keyTimeMap, <>keysDown;
 
 	*new { ^super.new.init(); }
